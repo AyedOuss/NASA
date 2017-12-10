@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NASA : Meteorite Landings</string>
+    <string name="google_android_map_api_key">AIzaSyACbSESWGEeG7jJfxpQPa07nF7in3gxtC0</string>
+</resources>
